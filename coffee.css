@@ -1,0 +1,21 @@
+body{ 
+		background-image:url(coffes.jpeg);
+		background-attachment:fixed;
+		background-size:cover;
+		background-position:left;
+}
+#b1,#b1 header,#b1 main,#b1 footer{
+		background-color:#d2a679;
+		position:center;
+		text-align:center;
+		padding:-0.2px;
+		text:bold;
+		font-family:console;
+}
+
+			
+
+
+
+
+
